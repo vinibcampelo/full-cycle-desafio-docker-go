@@ -27,3 +27,14 @@ Após buildar a imagem use o seguinte comando para rodar a aplicação:
 
 >docker run --name desafio-go -v $(pwd):/src desafio-go:latest
 ---
+## Rodando via docker hub
+&nbsp;
+
+para rodar através do meu docker hub execute os seguintes comandos:
+
+>docker run viniciusbcampelo/desafio-go
+
+&nbsp;
+
+Resultado esperado no terminal:
+>Full Cycle Rocks!!
